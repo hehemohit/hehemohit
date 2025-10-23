@@ -89,6 +89,4 @@
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggACmBYrfk9nF9/giphy.gif" width="100%" />
-
 </div>
