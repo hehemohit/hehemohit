@@ -1,76 +1,72 @@
-<div align="center">
+# 👋 Hey there! I'm Mohit Jangid  
+### 🚀 Web Developer | Tech Enthusiast | Creative Problem Solver  
 
-  <img src="https://media.giphy.com/media/l41YmiCZ8n0SATEIw/giphy.gif" width="100%"/>
+🌍 **From Virar, India**  
+📧 **mohit.jangid2805@gmail.com**  
+💼 **Currently interning at [Digital Vigyapan](https://digitalvigyapan.co.in)**  
+🎓 **Pursuing B.E. in Computer Engineering @ Universal College of Engineering**
 
-  <br>
+---
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=hehemohit&style=flat-square&color=blueviolet" alt="Profile views" />
-  </p>
-  
-  <h1>
-    Mohit Jangid (@hehemohit)
-  </h1>
-  
-  <h3>
-    Developer | Creator | Problem Solver
-  </h3>
+## 💡 About Me
 
-  <br>
-  
-  <p>
-    <i>"Focus on building. The results will follow."</i>
-  </p>
-  
-  <br>
+Hey! I’m Mohit — a passionate Web Developer and tech explorer who loves turning ideas into functional, user-friendly digital experiences.  
+Currently, I’m part of the **Digital Vigyapan** team, where I’m helping build an **Agency Management Software (AMS)** tailored for marketing agencies 🚀  
 
-  <h2>My Technology Arsenal</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Pygame-6C9C2C?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </p>
+When I’m not coding, you’ll find me designing, brainstorming social media strategies, or playing volleyball 🏐
 
-  <br>
+---
 
-  <h2>My GitHub Activity & Stats</h2>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=hehemohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Mohit's GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehemohit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hehemohit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hehemohit&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-  </p>
-  
-  <br>
+## 🧠 What I Know
 
-  <h2>My Featured Projects</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hehemohit&repo=Share-Care&theme=tokyonight&hide_border=true" alt="Share-Care Project" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hehemohit&repo=car-race&theme=tokyonight&hide_border=true" alt="Car Race Project" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hehemohit&repo=countdown&theme=tokyonight&hide_border=true" alt="Countdown Project" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hehemohit&repo=voice_recorder&theme=tokyonight&hide_border=true" alt="Voice Recorder Project" />
-  </p>
+**Languages & Tools:**  
+`HTML` `CSS` `JavaScript` `SQL` `Python` `Tableau` `Power BI` `Cognos Analytics` `Excel` `WordPress` `Canva` `Adobe Photoshop` `DaVinci Resolve` `Premiere Pro`
 
-  <br>
+**Currently Exploring:**  
+- React.js ⚛️  
+- REST APIs 🌐  
+- Automation tools 🤖  
 
-  <h2>Connect With Me</h2>
-  <p>
-    <a href="[YOUR_LINKEDIN_URL_HERE]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:[YOUR_EMAIL_HERE]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+---
 
-  <br>
+## 🧩 What I’ve Worked On
 
-  <img src="https://media.giphy.com/media/qgQUggACmBYrfk9nF9/giphy.gif" width="100%"/>
-  
-</div>
+### 💼 Web Developer Intern @ Digital Vigyapan (Sep 2025 – Present)
+- Built modules for **Agency Management Software (AMS)** for social media agencies.  
+- Developed fully functional **client websites** using WordPress.  
+- Documented technical progress and challenges during **Proficio Website – Phase 2** for smoother handovers.  
+
+### 💬 Social Media Intern @ Digital Vigyapan (Aug 2025 – Sep 2025)
+- Worked with brands like **Asian Paints, Avyukta, PureBot, Ebullient, and Proficio Therapy.**  
+- Created **content calendars and ad strategies** that boosted engagement by **44.5%**.  
+- Earned praise for creativity, strategy, and communication with clients.
+
+---
+
+## 🏅 Positions of Responsibility
+
+🎯 **Sports Head | Students’ Council**  
+- Led the **annual Sports Fest** for 1,000+ students with a dynamic organizing team.  
+- Represented college in intercollegiate tournaments, winning **8 medals** including **2nd place at ICT Volleyball**.  
+
+---
+
+## 🎨 Fun Side of Me
+
+- 🧩 I love solving problems that mix creativity with logic.  
+- 🏐 I believe teamwork on the field = teamwork in tech.  
+- ☕ My debugging fuel? A good cup of chai.  
+- 📈 I’m on a constant mission to learn, build, and improve.  
+
+---
+
+## 🧭 Let’s Connect
+
+💌 **Email:** [mohit.jangid2805@gmail.com](mailto:mohit.jangid2805@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/mohitjangid](#) _(add your link)_  
+🐦 **Twitter:** [@mohitjangid](#) _(add if applicable)_  
+🌐 **Portfolio:** Coming soon...
+
+---
+
+⭐️ *“Building one project at a time, learning one bug at a time.”*  
