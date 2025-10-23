@@ -1,124 +1,94 @@
-<!--
-✨ Quick Setup:
-1) Replace all instances of YOUR_GITHUB_USERNAME with your GitHub username.
-2) (Optional) Update social links + skills.
-3) Commit this as README.md inside a repo named exactly YOUR_GITHUB_USERNAME
--->
+<div align="center">
 
-<!-- Top Banner / Hero -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRuZHBsdG1xbDg1eHNiNGJpN2Z3OGM3eG9vdDAxOHRpNHY0YzZrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding animation" width="100%" style="border-radius:16px;" />
-</p>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
 
-<!-- Typing Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Mohit+Jangid+%F0%9F%91%8B;Web+Developer+%7C+Tech+Enthusiast+%7C+Creative+Problem+Solver;I+build+useful+things+for+the+web+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/badge/Code-Learn%20%26%20Build-informational?style=flat-square" alt="learn-build" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Dev-blueviolet?style=flat-square" alt="focus" />
-  <img src="https://img.shields.io/badge/Loves-Chai%20%26%20Volleyball-orange?style=flat-square" alt="chai" />
-</p>
-
-<!-- Wave hello -->
-<h1 align="center">Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/></h1>
-
-### 👨‍💻 About Me
-- 🚀 I turn ideas into clean, functional, user-friendly web experiences.  
-- 🧠 I enjoy documenting what I build—so future-me (and teammates) thank me.  
-- 🏐 Team player on & off the court. Also: chai-fueled debugging champion.  
-- 🎯 Current goals: Better front-end architecture, smarter automation, smoother UX.
-
----
-
-## 🧰 Tech Toolbox
 <p>
-  <!-- Core -->
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress"/>
+  <img src="https://komarev.com/ghpvc/?username=hehemohit&style=flat-square&color=blueviolet" alt="Profile Views" />
+</p>
 
-  <!-- Data / Scripting -->
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+# 👋 Hi, I'm **Mohit Jangid** ([@hehemohit](https://github.com/hehemohit))  
+### 💡 *Building. Learning. Improving. Every Day.*
 
-  <!-- Visualization -->
-  <img height="36" src="https://img.shields.io/badge/Tableau-%20-556?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img height="36" src="https://img.shields.io/badge/Power%20BI-%20-556?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7D56F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+and+JS+Enthusiast;Always+Learning+New+Things;Passionate+About+Open+Source;Turning+Ideas+Into+Code" />
 
-  <!-- Design / Editing -->
-  <img height="36" src="https://img.shields.io/badge/Photoshop-%20-556?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-  <img height="36" src="https://img.shields.io/badge/Premiere%20Pro-%20-556?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro"/>
-  <img height="36" src="https://img.shields.io/badge/DaVinci%20Resolve-%20-556?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve"/>
+---
+
+## 🧰 My Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pygame-6C9C2C?style=for-the-badge&logo=pygame&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ---
 
-## ✨ Highlights
-- 🧩 Building helpful modules & documenting dev journeys.
-- 🧰 WordPress sites ❤️ performance, accessibility, and clean handoffs.
-- 📈 I love turning raw data into decisions (Tableau / Power BI).
+## 🚀 Projects I'm Proud Of
+
+| 🌟 Project | 🚀 Description | 💻 Tech |
+|-------------|----------------|--------|
+| [🎮 Retro Runner](https://github.com/hehemohit/retro-runner) | An arcade-style Python game built with Pygame | Python, Pygame |
+| [🌐 Portfolio Website](https://github.com/hehemohit/portfolio) | My personal web portfolio showcasing my skills & projects | HTML, CSS, JavaScript |
+| [🧠 AI Chatbot](https://github.com/hehemohit/ai-chatbot) | A simple yet smart AI chatbot using Python | Python, NLTK |
+| [📊 DevStats Dashboard](https://github.com/hehemohit/devstats) | A dashboard visualizing GitHub metrics & activity | JavaScript, Chart.js |
+
+---
+
+## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZrb3g1c2R2dXRpMmpoMWJkanppYmR3bm1zYTRrYzNsY3k0d2c3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="280" alt="Build animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hehemohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehemohit&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hehemohit&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Auto-Updating)
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&theme=transparent" alt="stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent" alt="streak"/>
-</p>
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" alt="top-langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=true&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hehemohit&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 🚀 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact" alt="activity-graph"/>
-</p>
+## 🌱 What I'm Currently Doing
+
+- 🧠 Learning **React**, **APIs**, and **modern JavaScript**
+- ⚙️ Working on a few cool **side projects**
+- ✍️ Writing about **Python** and **development tips**
+- 🎯 Goal: Contribute to **open-source** regularly
 
 ---
 
-## 🐍 Contribution Snake (Fun!)
-<!-- This requires a small GitHub Action setup in your profile repo. 
-     After setting it up, the image below will render automatically. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 💬 Let’s Connect
-<p>
-  <a href="mailto:mohit.jangid2805@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
----
-
-### 🧠 Fun Facts
-- ☕ Debugging fuel: chai.
-- 🏐 Sports taught me teamwork; code taught me patience.
-- 🔁 Learning never stops—one feature, one bug at a time.
+## 💬 Connect With Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZuaHRlajV5ZmszYjZtZzBiNnJ5c3ZrcjdvdjFqcHg5dGRpa2s1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding gif"/>
+  <a href="mailto:mohitjangid.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hehemohit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/hehemohit"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://hehemohit.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
 
-> ⭐ If you like any of my work, consider leaving a star—it truly motivates me!
+## 🧩 Fun Facts About Me
+
+- 💻 I started coding with **Python** at 15  
+- 🎮 I love creating **games and interactive tools**  
+- ☕ Coffee + Code = Perfect Day  
+- 🌌 I believe in **learning something new every single day**
+
+---
+
+<img src="https://media.giphy.com/media/qgQUggACmBYrfk9nF9/giphy.gif" width="100%" />
+
+</div>
