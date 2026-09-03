@@ -3,22 +3,22 @@
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=hehemohit&style=for-the-badge&color=7D56F3" alt="Player Views" />
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF66?style=for-the-badge&logo=statuspage&logoColor=black" />
-  <img src="https://img.shields.io/badge/RANK-LVL_8.35_ENGINEER-7D56F3?style=for-the-badge&logo=affinitydesigner&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=hehemohit&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-4c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Mumbai%2C_India-blue?style=flat-square" />
 </p>
 
-# 👾 PLAYER: **Mohit Jangid** 
-### ⚡ *Core Class: Decentralized Protocol Architect & AI Engineer*
+# 👋 Hi, I'm **Mohit Jangid**
+### 💡 *Software Engineer | Distributed Systems, Applied AI & Full Stack*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7D56F3&center=true&vCenter=true&width=750&lines=Level+8.35+Computer+Engineering+Specialist;Building+Zero-Trust+P2P+Mesh+Protocols;Orchestrating+Generative+AI+%26+LLM+Pipelines;1st+Place+Winner+%40+Code+Automata+2.1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7D56F3&center=true&vCenter=true&width=650&lines=Decentralized+P2P+Mesh+Protocols;AI-Driven+Accessibility+Platforms;Cloud+Infrastructure+%26+Microservices;Full+Stack+Engineering" />
 
 ---
 
-## 🧰 Inventory & Ability Tree
+## 🧰 Technical Skills
 
 <p align="center">
-  <!-- Core Languages -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -26,66 +26,69 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <br/>
-  <!-- Frameworks & Engines -->
+  <!-- Frameworks & Backends -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity_Engine-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Magento-E41114?style=for-the-badge&logo=magento&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <br/>
-  <!-- Cloud, Datastores & Cyber Infrastructure -->
+  <!-- Cloud, Infrastructure & Databases -->
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git_VCS-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Main Quest Deployments
+## 🚀 Key Projects
 
-| 🌟 Quest Item | 🚀 Mission Log & Mechanics | 💻 Skill Runes |
+| Project | Summary & Engineering Highlights | Stack |
 |:---|:---|:---|
-| **📡 ZeroGrid** <br><sub>*Serverless Mesh Protocol*</sub> | Designed an offline P2P mesh network over Wi-Fi Direct and BLE, achieving multi-hop packet relaying up to **8 hops** during complete infrastructure blackouts. Fortified with **Curve25519 and AES-256-GCM** encryption, CRC32 chunk validation, and rapid SOS flood-broadcasting. | `Android` `Kotlin` `BLE` `Wi-Fi Direct` `Cryptography` |
-| **🧠 EduAble** <br><sub>*AI Accessibility Hub*</sub> | **🥇 1st Place Champion (Rank 1/500+ Guilds) at CODE AUTOMATA 2.1**. Deployed an adaptive accessibility engine equipped with a real-time WhatsApp bot responding in **< 2s**, backed by Google Cloud Storage pipelines managing 1,000+ multimodal assets with RBAC security. | `React` `Node.js` `TypeScript` `GCS` `WhatsApp API` |
-| **📅 Study-Focus** <br><sub>*AI Productivity Engine*</sub> | Built an autonomous scheduling core that eliminates **100% of manual task sorting** and reduces planning cycles by **20%**. Injected custom prompt schemas into the Google Gemini API to compile raw text directly into strict metadata JSON. | `Python` `Gemini API` `REST APIs` `JSON Schema` |
-| **🎮 Modular FPS Framework** <br><sub>*Polymorphic Combat Engine*</sub> | Engineered an extensible C# FPS framework cutting weapon implementation latency by **50%** via ScriptableObjects and polymorphic interface architecture. Documented the full development lifecycle in an architectural breakdown video. | `C#` `Unity Engine` `OOP Polymorphism` |
-| **🚜 eFarmer** <br><sub>*Resource Ecology Hub*</sub> | Architected an integrated ecosystem connecting traditional agriculture with modern web technology, offering real-time supply chain tracking, equipment allocation, and productivity analytics. | `MERN Stack` `RESTful APIs` |
+| **📡 ZeroGrid** <br><sub>Decentralized P2P Mesh Protocol</sub> | • Engineered a serverless peer-to-peer mesh network on Android leveraging Wi-Fi Direct and BLE, achieving multi-hop relay up to **8 hops** during total network blackouts.<br>• Secured communications via **Curve25519** and **AES-256-GCM** end-to-end encryption with zero-trust node forwarding, CRC32 chunk-validated transfers, and rapid SOS flood-broadcasting. | `Android` `Kotlin` `Wi-Fi Direct` `BLE` `Cryptography` |
+| **🧠 EduAble** <br><sub>AI-Driven Accessibility Platform</sub> | • **1st Place of 500+ Teams** at the CODE AUTOMATA 2.1 Hackathon.<br>• Built a high-performance accessibility platform featuring a WhatsApp Business Bot serving queries in **< 2s** for learners with visual, auditory, and cognitive impairments.<br>• Architected Google Cloud Storage (GCS) pipelines managing 1,000+ multimodal assets with role-based access control (RBAC). | `React` `Node.js` `TypeScript` `GCS` `WhatsApp API` |
+| **📅 Study-Focus** <br><sub>AI Productivity Platform</sub> | • Engineered an automated scheduling system that eliminates manual task prioritization and cuts study planning time by **20%** via scalable REST APIs.<br>• Leveraged Google Gemini API with structured prompt schemas to transform unstructured text into validated, metadata-rich JSON schemas. | `Python` `Gemini API` `REST APIs` `JSON Schema` |
+| **🎮 Modular FPS Engine** <br><sub>Data-Driven Game Framework</sub> | • Built an extensible First-Person Shooter framework in Unity, reducing weapon implementation turnaround by **50%** using interface-based polymorphism and ScriptableObjects. | `C#` `Unity Engine` `OOP Design Patterns` |
+| **🚜 eFarmer** <br><sub>Digital Agriculture Hub</sub> | • Developed a centralized web platform designed to streamline agricultural workflows, connecting traditional farmers to modern resource management and supply chain tracking. | `MongoDB` `Express` `React` `Node.js` `REST` |
 
 ---
 
-## 💼 Guild Campaigns & Experience
+## 💼 Professional Experience
 
-### **Developer Intern** ➔ DigitalVigyapan *(Aug 2025 – Jan 2026)*
-* **Frontend Overclocking:** Optimized Magento frontend architecture for *Parcos*, maximizing mobile runtime performance to drive a **+23.6% boost in conversion rates**; managed Linux release environments.
-* **Automation Engineering:** Built internal React and Node.js CMS pipelines with rigid MongoDB schema constraints, mitigating deployment failure rates by **70%** and boosting team throughput by **15%**.
-* **Cloud Pipelines:** Constructed a multi-channel synchronization CMS on GCP integrating YouTube Data, Meta Graph, and LinkedIn APIs—eliminating **10+ weekly manual grinding hours** and boosting audience reach by **25%**.
-
----
-
-## 🏆 Clan Leadership & Arena Feats
-
-* **Sports Head | Students' Council:** Managed operations and core staff for an annual inter-college stadium fest hosting **1,000+ participants**; competed in regional tournaments to claim **1st place and 8 medals**.
-* **Event Head | AURORA Fest:** Built an automated real-time tournament leaderboard engine, eliminating scorekeeping latency and ensuring synchronized match flow across all tournament brackets.
+### **Developer Intern** | DigitalVigyapan *(August 2025 – January 2026)*
+* **Frontend Performance Engineering:** Refactored the core Magento codebase to introduce responsive rendering for *Parcos*, optimizing mobile performance and delivering a **23.6% increase in conversion rates**. Managed continuous deployments in Linux production environments.
+* **Internal Automation Pipelines:** Built an internal automation CMS using React and Node.js. Enforced strict schema validation in MongoDB, reducing deployment error rates by **70%** and improving engineering throughput by **15%**.
+* **Cloud Architecture:** Designed a unified multi-channel publishing tool on GCP integrating YouTube Data, Meta Graph, and LinkedIn APIs, eliminating **10+ hours of weekly manual work** and expanding content reach by **25%**.
 
 ---
 
-## 🌱 Active Skill Tree Upgrades
+## 🏆 Positions of Responsibility
 
-* 🧬 **AI & Autonomous Agents:** Mastering Large Language Model fine-tuning, retrieval pipelines, and agentic workflows.
-* ☁️ **Cloud Infrastructure:** Scaling containerized clusters across GCP, Docker, and Kubernetes nodes.
-* ⚙️ **Decentralized Systems:** Developing resilient, zero-trust peer-to-peer protocols and low-latency network architectures.
+* **Sports Head | Students' Council**
+  * Directed logistics, budget allocation, and a dedicated committee organizing the university's annual Sports Fest for **1,000+ participants**.
+  * Represented the college in competitive intercollegiate circuits, securing **1st position and 8 total medals**.
+* **Event Head | AURORA Fest**
+  * Developed a real-time leaderboard and points engine to streamline tournament scorekeeping, eliminating operational bottlenecks and ensuring zero scheduling delays.
 
 ---
 
-## 📈 HUD Metrics & Live Stats
+## 🌱 Active Focus & Learning
+
+* 🧬 Deepening core competencies in **Generative AI, Model Fine-Tuning, and Agentic LLM Architectures**.
+* ☁️ Designing reliable distributed backends across **GCP, Docker, Kubernetes, and Cloud Storage**.
+* ⚙️ Investigating resilient, fault-tolerant **P2P mesh protocols and zero-trust systems**.
+
+---
+
+## 📈 Engineering Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hehemohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
@@ -96,12 +99,12 @@
 
 ---
 
-## 💬 Summon Player
+## 💬 Connect With Me
 
 <p align="center">
-  <a href="mailto:mohit.jangid2805@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohit-jangid-a54762346"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/hehemohit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:mohit.jangid2805@gmail.com"><img src="https://img.shields.io/badge/Email-mohit.jangid2805%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mohit-jangid-a54762346"><img src="https://img.shields.io/badge/LinkedIn-Mohit_Jangid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/hehemohit"><img src="https://img.shields.io/badge/GitHub-hehemohit-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </div>
