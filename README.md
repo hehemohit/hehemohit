@@ -6,10 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=hehemohit&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
-# 👋 Hi, I'm **Mohit Jangid**
-### 💡 *Distributed Systems | Model Training & Generative AI | Full Stack Engineering*
+# 👋 Hi, I'm **Mohit Jangid** 
+### 💡 *Model Training | Generative AI | Full Stack Engineering*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7D56F3&center=true&vCenter=true&width=600&lines=Generative+AI+%26+LLM+Explorer;Full+Stack+Engineer;Hackathon+Winner;Cloud+%26+Distributed+Systems;Decentralized+Protocols" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7D56F3&center=true&vCenter=true&width=600&lines=Generative+AI+%26+LLM+Explorer;Full+Stack+Engineer;Hackathon+Winner;Decentralized+Systems+%26+Mesh+Networks;Cloud+%26+Distributed+Systems" />
 
 ---
 
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Magento-E41114?style=for-the-badge&logo=magento&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <br/>
-  <!-- Cloud & Databases -->
+  <!-- Cloud, DevOps & Databases -->
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -51,8 +51,8 @@
 
 | 🌟 Project | 🚀 Description | 💻 Tech Stack |
 |-------------|----------------|--------|
-| **📡 ZeroGrid** | Serverless decentralized P2P mesh network protocol leveraging Wi-Fi Direct and BLE, achieving multi-hop relay up to 8 hops with store-and-forward transmission during total network blackouts. Secured using Curve25519 and AES-256-GCM E2E encryption with zero-trust forwarding, CRC32 chunk validation, and SOS flood-broadcasting. | Android, Kotlin, Wi-Fi Direct, BLE, Cryptography |
-| **🧠 EduAble** | **🥇 1st Place Winner (1st of 500+ teams) at CODE AUTOMATA 2.1**. An AI-driven accessibility platform empowering students with visual, auditory, and cognitive impairments. Features a WhatsApp Business Bot serving < 2s real-time queries and GCS pipelines managing 1,000+ multimodal assets with RBAC. | MERN Stack, TypeScript, GCS, WhatsApp API |
+| **📡 ZeroGrid** | A serverless decentralized P2P mesh network built on Android using Wi-Fi Direct and BLE, enabling multi-hop relays up to 8 hops with store-and-forward packet transmission during total network blackouts. Secured with Curve25519, AES-256-GCM encryption, CRC32 chunk-validation, and SOS flood-broadcasting. | Android, Kotlin, Wi-Fi Direct, BLE, Cryptography |
+| **🧠 EduAble** | **🥇 1st Place Winner (1st of 500+ teams) at CODE AUTOMATA 2.1**. An AI-driven accessibility platform empowering students with visual, auditory, and cognitive impairments. Features a WhatsApp Business Bot serving < 2s real-time queries and GCS pipelines managing 1,000+ multimodal assets with secure RBAC. | MERN Stack, TypeScript, GCS, WhatsApp API |
 | **📅 Study-Focus** | An AI-powered productivity platform that automates 100% of manual task prioritization and reduces study planning time by 20%. Integrates Google Gemini API via prompt engineering to parse unstructured study text into metadata-rich, structured JSON schemas. | Python, Gemini API, REST APIs, JSON Schema |
 | **🎮 Modular FPS Framework** | A data-driven First-Person Shooter framework built in Unity that reduces weapon implementation time by 50% using interface-based polymorphism and ScriptableObjects. | C#, Unity |
 | **🚜 eFarmer** | A comprehensive digital platform bridging traditional agricultural practices with modern tech, offering a streamlined ecosystem for resource management, supply chain tracking, and productivity. | MERN Stack, REST APIs |
@@ -62,16 +62,16 @@
 ## 💼 Professional Experience
 
 ### **Developer Intern** | DigitalVigyapan *(Aug 2025 – Jan 2026)*
-* **E-Commerce Optimization:** Refactored the Magento codebase to implement responsive frontend rendering for *Parcos*, optimizing mobile performance and driving a **23.6% increase in sales conversions**; managed end-to-end deployment workflows on Linux.
-* **Internal Automation:** Engineered a custom internal CMS tool using React and Node.js to automate content publishing pipelines. Enforced schema validation in MongoDB, achieving a **70% reduction in fault rates** and improving team throughput by **15%**.
+* **E-Commerce Optimization:** Refactored the Magento codebase to implement responsive frontend rendering for *Parcos*, optimizing mobile performance and driving a **23.6% increase in sales conversions**; managed end-to-end deployments on Linux.
+* **Internal Automation:** Engineered a custom internal CMS tool using React and Node.js to automate content publishing pipelines. Enforced schema validation in MongoDB, achieving a **70% reduction in fault rates** and boosting team throughput by **15%**.
 * **Cloud Integration:** Architected a centralized CMS on GCP integrating YouTube Data, Meta Graph, and LinkedIn APIs to automate multi-channel scheduling, saving **10+ weekly manual hours** and boosting audience reach by **25%**.
 
 ---
 
 ## 🏆 Positions of Responsibility
 
-* **Sports Head | Students' Council:** Managed operations and led a core committee organizing the annual Sports Fest for an audience of over **1,000 students**; represented the college in intercollegiate tournaments, securing **1st position and earning 8 medals**.
-* **Event Head | AURORA Fest:** Constructed an automated real-time points table and leaderboard system, synchronizing tournament scores and eliminating operational bottlenecks for zero scheduling delays.
+* **Sports Head | Students' Council:** Led the organization of the annual Sports Fest, managing a core team for an event of over **1,000 students**. Represented the college in intercollegiate tournaments, securing **1st position and earning 8 medals** across events.
+* **Event Head | AURORA Fest:** Built an automated real-time points table and leaderboard engine, streamlining score tracking to eliminate operational bottlenecks and maintain a structured, zero-delay tournament flow.
 
 ---
 
